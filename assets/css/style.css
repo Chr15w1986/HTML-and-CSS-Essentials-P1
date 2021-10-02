@@ -1,0 +1,25 @@
+
+body {
+    background-color: #faebd7;
+}
+
+nav ul {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    display: inline;
+    display: flex;
+    
+}
+
+#logo {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 180%;
+    text-align: left;
+    text-decoration: underline;
+    margin: 20px 0 0 20px;
+    float: center;
+}
+
+#autobigraphy h2 {
+    float: left;
+}
